@@ -30,5 +30,6 @@ namespace ECommerceSystem.Models
         // Navigation Properties
         public User? User { get; set; }
         public Product? Product { get; set; }
+        //hi
     }
 }
